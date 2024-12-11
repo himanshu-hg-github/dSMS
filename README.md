@@ -1,6 +1,7 @@
-# dSMS - Document Shario
+# dSMS - Document Sharing Management System
 
-This is an application created using Node.js
+A social space for sharing important documents securly to specified number of friends in touch.
+It allows the user to save documents for themselves with private access only.
+Publicly accessed files feature can also be enabled as per choice.
 
-Started from scratch to including all topics to learn working with Node.js and finally MERN stack.
 This was a part of my industrial training / internship at Care Health Insurance Limited.
